@@ -1,0 +1,25 @@
+<img src="styles/default/xenforo/avatars/avatar_male_s.png" width="48" height="48" border="0" alt="Photo of stvo">
+
+<img src="https://cdn.beeradvocate.com/data/avatars/s/1191/1191029.jpg?1493309925" width="48" height="48" border="0" alt="Photo of ewpass">
+
+
+
+
+
+1pg
+//*[@id="ba-content"]/div[9]/span/a[3]
+2pg 
+//*[@id="ba-content"]/div[9]/span/a[6]
+3pg
+//*[@id="ba-content"]/div[9]/span/a[7]
+
+
+//*[@id="rating_fullview_user"]/div/a/img
+
+//*[@id="rating_fullview_user"]/div/a/img
+
+//*[@id="ba-content"]/div[9]/span/a[6]
+
+
+
+//*[@id="rating_fullview_content_2"]

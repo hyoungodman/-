@@ -1,0 +1,13 @@
+next 버튼으로 넘기기
+
+1pg next 버튼 xpath
+//*[@id="ba-content"]/div[9]/span/a[3]
+
+2pg next btn xpath
+//*[@id="ba-content"]/div[9]/span/a[7]
+
+3pg 
+//*[@id="ba-content"]/div[9]/span/a[7]
+
+4pg
+//*[@id="ba-content"]/div[9]/span/a[7]
